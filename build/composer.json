@@ -1,0 +1,9 @@
+{
+ 	"config": {
+        "vendor-dir": "../vendor"
+    },
+    
+	"require": {
+		"phing/phing": "2.6.1"
+	}
+}
